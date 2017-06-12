@@ -3,14 +3,11 @@ html, body {
   padding: 0;
 }
 .wrapper {
-  /*margin: 50px;*/
   display: flex;
-  /*justify-content: space-around;*/
   flex-wrap: wrap;
   border: 5px solid lightcoral;
 }
 .box {
-  /*width: 100%;*/
   height: 200px;
   margin: 5px;
   display: inline-block;
@@ -25,48 +22,40 @@ html, body {
 
 .square2 {
     background-color: red;
-
-    flex-basis: 200px;
+    flex-basis: 100px;
 }
 
 .square3 {
     background-color: blue;
-
     flex-basis: 200px;
 }
 
 .square4 {
    background-color: brown;
-
    flex-basis: 200px;
 }
 
 .square5 {
     background-color: pink;
-
     flex-basis: 200px;
 }
 
 .square6 {
     background-color: yellow;
-
     flex-basis: 200px;
 }
 
 .square7 {
     background-color: black;
-
     flex-basis: 400px;
 }
 
 .square8{
     background-color: grey;
-
     flex-basis: 200px;
 }
 
 .square9 {
     background-color: green;
-
     flex-basis: 200px;
 }
